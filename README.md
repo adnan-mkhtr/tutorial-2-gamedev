@@ -31,6 +31,8 @@
 
 3. Ubah nilai atribut Mass pada tipe RigidBody2D secara bebas di scene BlueShip, lalu coba jalankan scene MainLevel. Apa yang terjadi?
 
+   Tidak terjadi apa apa dan tidak ada perubahan. Karena perubahan massa tidak mempengaruhi kecepatan jatuh dan gravitasi memberikan percepatan konstan.
+
 4. Ubah nilai atribut Disabled pada tipe CollisionShape2D di scene StonePlatform, lalu coba jalankan scene MainLevel. Apa yang terjadi?
 
    Setelah mengubah nilai atribut Disabled yang awalnya Off menjadi On, lalu menjalankan scene MainLevel yang terjadi adalah setiap BlueShip mencapai/menyentus batas atas pada panel Output tidak mencetak `"Reached objective"`.

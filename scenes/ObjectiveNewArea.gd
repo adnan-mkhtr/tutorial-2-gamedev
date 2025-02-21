@@ -1,8 +1,5 @@
 extends Area2D
 
-signal level_complete
-var is_active: bool = true 
-
 func _ready():
 	connect("body_entered", Callable(self, "_on_body_entered"))
 

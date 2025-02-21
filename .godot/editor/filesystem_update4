@@ -1,11 +1,5 @@
 res://default_env.tres
-res://scenes/LatihanMandiri.tscn
-res://scenes/ObjectiveNewArea.gd
-res://scenes/StoneObstacle.gd
-res://scenes/Plane.tscn
-res://scenes/ObjectiveArea.gd
 res://scenes/MainLevel.tscn
 res://scenes/BlueShip.tscn
-res://scenes/Destination.tscn
-res://scenes/Plane.gd
-res://scenes/StoneObstacle.tscn
+res://scenes/LatihanMandiri.tscn
+res://scenes/ObjectiveNewArea.gd
