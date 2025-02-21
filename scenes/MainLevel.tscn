@@ -20,7 +20,7 @@ script = ExtResource("3")
 position = Vector2(70, 0)
 
 [node name="BlueShip" parent="." instance=ExtResource("2")]
-position = Vector2(72.7009, 421.901)
+position = Vector2(75, 429)
 lock_rotation = true
 
 [node name="ObjectiveArea" type="Area2D" parent="."]
